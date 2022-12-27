@@ -2,11 +2,11 @@
 
 Perkenalkan nama saya **Jericho Gunawan** 👋  
 
-Saya seorang **Mahasiswa** di [Gunadarma](https://gunadarma.ac.id/).  
+Saya seorang **Fresh Graduate** dari [Universitas Gunadarma](https://gunadarma.ac.id/).  
 
 Saya juga memiliki gelar [Alibaba Cloud Relational Database Service Technical Operations](https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=ACLC58210200045022&accounttraceid=981b2f48ff85486e9b04d7262ca62535lrhn) sejak 2021.  
 
-Saya tertarik pada bidang computer networking dengan dibekali [sertifikasi Associate Cloud Engineer dari Google Cloud](https://www.credential.net/f02f8ea0-fef2-4429-99e9-ac59377c9070) sejak 2022.  
+Saya tertarik pada bidang Cloud Computig dengan dibekali [sertifikasi Associate Cloud Engineer dari Google Cloud](https://www.credential.net/f02f8ea0-fef2-4429-99e9-ac59377c9070) sejak 2022.  
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/jericho-gunawan/) ku ya. 
 
