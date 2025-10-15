@@ -1,34 +1,45 @@
-#### Halo semua! 
+# Hi, I’m Jericho Gunawan 👋  
 
-Perkenalkan nama saya **Jericho Gunawan** 👋  
+## 🧩 About Me  
+Saya seorang **.NET Developer** yang bersemangat dalam membangun aplikasi web dan sistem backend.  
+Saat ini saya tengah memperdalam keahlian di **Fullstack Development** dan **DevOps** agar dapat merancang dan memelihara aplikasi secara end-to-end.
 
-Saya seorang **Fresh Graduate** dari [Universitas Gunadarma](https://gunadarma.ac.id/).  
+- 🎯 Fokus utama: `.NET / .NET Core`, `C#`, `ASP.NET`, `Entity Framework`, `REST API`  
+- 📚 Saat ini mempelajari: `React.js` sebagai frontend, `CI/CD`, `Docker`, `GCP`  
+- 🧠 Disiplin dalam belajar, analisis masalah, dan mencari solusi yang efisien  
+- 🌱 Aktif menghadiri event teknologi & psikologi untuk memperluas wawasan  
 
-Saya juga memiliki gelar [Alibaba Cloud Relational Database Service Technical Operations](https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=ACLC58210200045022&accounttraceid=981b2f48ff85486e9b04d7262ca62535lrhn) sejak 2021.  
+## 🛠 Tech Stack  
 
-Saya tertarik pada bidang Cloud Computing dengan dibekali [sertifikasi Associate Cloud Engineer dari Google Cloud](https://www.credential.net/f02f8ea0-fef2-4429-99e9-ac59377c9070) sejak 2022.  
+| Domain        | Teknologi / Tool                                   |
+|----------------|---------------------------------------------------|
+| Backend        | C#, .NET / .NET Core, ASP.NET Core, Entity Framework |
+| Frontend        | HTML, CSS, JavaScript, (memulai dengan React/Vue) |
+| Database & Cloud | SQL Server, MySQL, Azure SQL, (pelajari Cosmos DB / layanan cloud lainnya) |
+| DevOps & Tools  | Git, GitHub Actions / CI-CD, Docker, Postman, Azure DevOps |
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/jericho-gunawan/). 
+## 💼 Featured Projects  
+Berikut beberapa proyek unggulan yang pernah saya kerjakan:
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/JerichoG">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JerichoG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JerichoG&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+1. **Project A – Sistem Manajemen Keanggotaan**  
+   - Teknologi: `.NET Core`, `C#`, `SQL Server`, `Entity Framework`  
+   - Fitur: CRUD anggota, otentikasi & otorisasi, notifikasi email  
+   - Peran: merancang API, database, dan menyusun dokumentasi  
+   - Link repo: `https://github.com/JerichoG/project-a`  
 
-<!--
-**JerichoG/JerichoG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2. **Project B – Dashboard Monitoring Internal**  
+   - Teknologi: `.NET + Blazor` / ASP.NET + JavaScript  
+   - Fitur: visualisasi data real-time, filter & export laporan  
+   - Peran: frontend + backend + integrasi API eksternal  
+   - Link repo: `https://github.com/JerichoG/project-b`  
 
-Here are some ideas to get you started:
+> Info tambahan: setiap repositori proyek dilengkapi `README` tersendiri yang menjelaskan teknologinya, cara menjalankan project, dan tantangan utama yang saya hadapi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+![Jericho’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=JerichoG&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JerichoG&layout=compact&theme=tokyonight)  
+
+## 🤝 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jericho-gunawan)  
+- 📧 Email: gunawan.jeri25@gmail.com  
+
