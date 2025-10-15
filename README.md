@@ -15,23 +15,23 @@ Saat ini saya tengah memperdalam keahlian di **Fullstack Development** dan **Dev
 |----------------|---------------------------------------------------|
 | Backend        | C#, .NET / .NET Core, ASP.NET Core, Entity Framework |
 | Frontend        | HTML, CSS, JavaScript, (memulai dengan React/Vue) |
-| Database & Cloud | SQL Server, MySQL, Azure SQL, (pelajari Cosmos DB / layanan cloud lainnya) |
-| DevOps & Tools  | Git, GitHub Actions / CI-CD, Docker, Postman, Azure DevOps |
+| Database & Cloud | SQL Server, MySQL, Google Cloud Platform( layanan cloud lainnya) |
+| DevOps & Tools  | Git, GitHub Actions / Docker, Postman |
 
 ## 💼 Featured Projects  
 Berikut beberapa proyek unggulan yang pernah saya kerjakan:
 
-1. **Project A – Sistem Manajemen Keanggotaan**  
-   - Teknologi: `.NET Core`, `C#`, `SQL Server`, `Entity Framework`  
-   - Fitur: CRUD anggota, otentikasi & otorisasi, notifikasi email  
-   - Peran: merancang API, database, dan menyusun dokumentasi  
-   - Link repo: `https://github.com/JerichoG/project-a`  
+1. **Basilisk Web – E-Commerce**  
+   - Teknologi: `.NET + Blazor`, `C#`, `SQL Server`, `Entity Framework`  
+   - Fitur: CRUD anggota, otentikasi & otorisasi, Transaction 
+   - Peran: frontend + backend + integrasi API eksternal
+   - Link repo: `https://github.com/JerichoG/Basilisk.Web`  
 
 2. **Project B – Dashboard Monitoring Internal**  
-   - Teknologi: `.NET + Blazor` / ASP.NET + JavaScript  
-   - Fitur: visualisasi data real-time, filter & export laporan  
+   - Teknologi: `.NET + Blazor`, `C#`, `SQL Server`, `Entity Framework` / ASP.NET + JavaScript  
+   - Fitur: CRUD anggota, otentikasi & otorisasi, Transaction 
    - Peran: frontend + backend + integrasi API eksternal  
-   - Link repo: `https://github.com/JerichoG/project-b`  
+   - Link repo: `https://github.com/JerichoG/IGLO_University`  
 
 > Info tambahan: setiap repositori proyek dilengkapi `README` tersendiri yang menjelaskan teknologinya, cara menjalankan project, dan tantangan utama yang saya hadapi.
 
